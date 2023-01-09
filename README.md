@@ -1,6 +1,7 @@
 # PCA_On_Olevitti_Images
 
 Olivetti Dataset
+
 Brief information about Olivetti Dataset:
 
 Face images taken between April 1992 and April 1994.
