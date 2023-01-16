@@ -1,6 +1,5 @@
 # PCA_On_Olevitti_Images
 
-Olivetti Dataset
 
 Brief information about Olivetti Dataset:
 
